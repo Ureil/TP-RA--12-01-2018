@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "projet aruco 2", "projet aruco 2\projet aruco 2.vcxproj", "{21F4EA63-7F0A-47F5-93E4-E643DA29B9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F4EA63-7F0A-47F5-93E4-E643DA29B9BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{21F4EA63-7F0A-47F5-93E4-E643DA29B9BB}.Debug|Win32.Build.0 = Debug|Win32
+		{21F4EA63-7F0A-47F5-93E4-E643DA29B9BB}.Release|Win32.ActiveCfg = Release|Win32
+		{21F4EA63-7F0A-47F5-93E4-E643DA29B9BB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
